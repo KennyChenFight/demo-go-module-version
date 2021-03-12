@@ -1,3 +1,3 @@
-module github.com/KennyChenFight/demo-go-module-version/v2
+module github.com/KennyChenFight/demo-go-module-version
 
 go 1.13
